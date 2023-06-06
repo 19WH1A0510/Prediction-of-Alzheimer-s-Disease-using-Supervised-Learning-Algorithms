@@ -1,4 +1,4 @@
-# Prediction-of-Alzheimer-s-Disease-using-Supervised-Learning-Algorithms
+# Prediction-of-Alzheimer's-Disease-using-Supervised-Learning-Algorithms
 
 Alzheimer's disease (AD) is the leading cause of dementia in older adults. There is currently a lot of interest in applying machine learning to find out metabolic diseases like Alzheimer's and Diabetes that affect a large population of people around the world. Their incidence rates are increasing at an alarming rate every year. 
 
