@@ -3,14 +3,14 @@ Alzheimer's disease (AD) is the leading cause of dementia in older adults. There
 
 To assess if a person has Alzheimer’s disease, our goal is to build a decision tree-based predictor. This offers sufficient depth for a more thorough analysis of the features. It offers a clearer knowledge of the patients' conditions. This facilitates the work of medical professionals by offering a more accurate understanding of the disease.
 
-##Dataset
+## Dataset
 oasis_longitudinal.csv
 
-##info
+## info
 Number of patients: 373
 Number of features: 15
 
-##Feature decsription
+## Feature decsription
 Subject ID - Identification
 MRI - MRI Identification
 Group - Demented/Nondemented
